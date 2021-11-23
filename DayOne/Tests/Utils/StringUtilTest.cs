@@ -4,7 +4,7 @@ using Xunit;
 
 namespace CrashCourse2021ExercisesDayOne.Tests.Utils
 {
-    public class StringUtilTest
+    public class StringUtilTest 
     {
         private StringUtil util;
 
